@@ -9,7 +9,7 @@
             "compilerPath": "/bin/g++",
             "cStandard": "c17",
             "cppStandard": "c++14",
-            "intelliSenseMode": "linux-gcc-arm64",
+            "intelliSenseMode": "linux-clang-arm64",
             "compilerArgs": [
                 "-L/lib/aarch64-linux-gnu",
                 "-lboost_system",
